@@ -1,1 +1,3 @@
-# TigerGame
+# CardGame
+
+CardGame uses several classes and Object-Oriented Programming concepts, object vectors, and randomization to create a interactive game. In CardGame, the player and CPU are randomly dealt an equal number of cards between 1 and 10 (per the user's input). The cards are numbered from 0-9, and there are 2 colors: purple and orange. Orange cards are worth double the value of purple cards. The CPU deals 1 card per round, and the user has to select a card that is greater in value than the CPU's card in order to win the round. The winner of the round recieves points of the sum of both cards. To win the game, the user has to recieve more points than the CPU, and the user has the option to play again.
